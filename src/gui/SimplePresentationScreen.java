@@ -9,6 +9,14 @@ import javax.swing.border.EmptyBorder;
 
 import entities.Student;
 import javax.swing.JTabbedPane;
+import java.awt.Dimension;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+
+import entities.Student;
+import javax.swing.JTabbedPane;
 
 @SuppressWarnings("serial")
 public class SimplePresentationScreen extends JFrame {
